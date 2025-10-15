@@ -15,7 +15,7 @@ A RESTful API built with **Node.js**, **Express**, and **PostgreSQL** (without S
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/event-management-api.git
+git clone https://github.com/sumitdevs/event-mangement-api.git
 cd event-management-api
 
 2️⃣ Install dependencies
